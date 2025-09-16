@@ -1,0 +1,499 @@
+{
+  "start_time": "2025-09-14T19:02:48.513477",
+  "end_time": "2025-09-14T19:02:49.657191",
+  "duration_seconds": 1.143714,
+  "base_url": "https://quill.co/blog",
+  "max_depth": 2,
+  "total_files": 53,
+  "total_discovered": 112,
+  "output_directory": "advanced_scraped",
+  "files_by_type": {
+    "html": 5,
+    "js": 26,
+    "other": 3,
+    "image": 16,
+    "css": 3
+  },
+  "files": [
+    {
+      "url": "https://quill.co/blog",
+      "filename": "blog.html",
+      "file_type": "html",
+      "size": 41160,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 0,
+      "status": "success",
+      "links_extracted": 20
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/app/layout-d3b252e072f830b8.js",
+      "filename": "js/layout-d3b252e072f830b8.js",
+      "file_type": "js",
+      "size": 10689,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co",
+      "filename": "index.html",
+      "file_type": "html",
+      "size": 130409,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 1,
+      "status": "success",
+      "links_extracted": 29
+    },
+    {
+      "url": "https://quill.co/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "filename": "_next_static_media_e4af272ccee01ff0-s.p.woff2",
+      "file_type": "other",
+      "size": 48432,
+      "content_type": "font/woff2",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/main-app-693d2cd1d3938aa5.js",
+      "filename": "js/main-app-693d2cd1d3938aa5.js",
+      "file_type": "js",
+      "size": 471,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/quill.7847c2f3.svg",
+      "filename": "images/quill.7847c2f3.svg",
+      "file_type": "image",
+      "size": 2415,
+      "content_type": "image/svg+xml",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/decisiontree.2829aade.svg",
+      "filename": "images/decisiontree.2829aade.svg",
+      "file_type": "image",
+      "size": 5011,
+      "content_type": "image/svg+xml",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/974-9fec86303b9f3ec6.js",
+      "filename": "js/974-9fec86303b9f3ec6.js",
+      "file_type": "js",
+      "size": 34369,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/css/925ba15c71db4fab.css",
+      "filename": "css/925ba15c71db4fab.css",
+      "file_type": "css",
+      "size": 44534,
+      "content_type": "text/css; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/476-3eba64679ab77c2d.js",
+      "filename": "js/476-3eba64679ab77c2d.js",
+      "file_type": "js",
+      "size": 25044,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/favicon.ico",
+      "filename": "images/favicon.ico",
+      "file_type": "image",
+      "size": 15406,
+      "content_type": "image/x-icon",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/23-cd598ff85a59d106.js",
+      "filename": "js/23-cd598ff85a59d106.js",
+      "file_type": "js",
+      "size": 123727,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/fd9d1056-fb4a8cdfa2853b0e.js",
+      "filename": "js/fd9d1056-fb4a8cdfa2853b0e.js",
+      "file_type": "js",
+      "size": 172833,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/app/blog/page-2d9dd85ad2b1d3f4.js",
+      "filename": "js/page-2d9dd85ad2b1d3f4.js",
+      "file_type": "js",
+      "size": 2777,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs",
+      "filename": "docs.html",
+      "file_type": "html",
+      "size": 149296,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 1,
+      "status": "success",
+      "links_extracted": 62
+    },
+    {
+      "url": "https://quill.co/_next/static/media/bigquery.3c458eb6.svg",
+      "filename": "images/bigquery.3c458eb6.svg",
+      "file_type": "image",
+      "size": 2485,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/254-8296f7c9f1d4e3bb.js",
+      "filename": "js/254-8296f7c9f1d4e3bb.js",
+      "file_type": "js",
+      "size": 23808,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/hotplate.096b3b32.svg",
+      "filename": "images/hotplate.096b3b32.svg",
+      "file_type": "image",
+      "size": 5906,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/linechart.3a8da38e.svg",
+      "filename": "images/linechart.3a8da38e.svg",
+      "file_type": "image",
+      "size": 46488,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/superpower.5518f41f.svg",
+      "filename": "images/superpower.5518f41f.svg",
+      "file_type": "image",
+      "size": 5176,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/db.b573b9b9.svg",
+      "filename": "images/db.b573b9b9.svg",
+      "file_type": "image",
+      "size": 10751,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/3972-e319faa9ea5d288d.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/3972-e319faa9ea5d288d.js",
+      "file_type": "js",
+      "size": 15494,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/5974-424da32b1561b8fb.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/5974-424da32b1561b8fb.js",
+      "file_type": "js",
+      "size": 31630,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/5134-dc2c9cf02bd8194b.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/5134-dc2c9cf02bd8194b.js",
+      "file_type": "js",
+      "size": 11316,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/1293-b1484d647cccd6be.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/1293-b1484d647cccd6be.js",
+      "file_type": "js",
+      "size": 59651,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/7417-f80268fa1bfb6ac6.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/7417-f80268fa1bfb6ac6.js",
+      "file_type": "js",
+      "size": 129854,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/media/bb3ef058b751a6ad-s.p.woff2",
+      "filename": "docs__next_static_media_bb3ef058b751a6ad-s.p.woff2",
+      "file_type": "other",
+      "size": 40480,
+      "content_type": "font/woff2",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/271c4271-e47f34f62bcfeead.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/271c4271-e47f34f62bcfeead.js",
+      "file_type": "js",
+      "size": 98705,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/87c73c54-2174f7eb4d0d8b2a.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/87c73c54-2174f7eb4d0d8b2a.js",
+      "file_type": "js",
+      "size": 173075,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/gigpro.3cf6e4d2.svg",
+      "filename": "images/gigpro.3cf6e4d2.svg",
+      "file_type": "image",
+      "size": 2910,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/serverlang.924a7bdc.png",
+      "filename": "images/serverlang.924a7bdc.png",
+      "file_type": "image",
+      "size": 5328,
+      "content_type": "image/png",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/turn.63f2c67a.svg",
+      "filename": "images/turn.63f2c67a.svg",
+      "file_type": "image",
+      "size": 723,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/snowflake.ccdeb78d.svg",
+      "filename": "images/snowflake.ccdeb78d.svg",
+      "file_type": "image",
+      "size": 4126,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/css/19e66b131dc509b0.css?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "css/19e66b131dc509b0.css",
+      "file_type": "css",
+      "size": 5444,
+      "content_type": "text/css; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/barchart.6acfe139.svg",
+      "filename": "images/barchart.6acfe139.svg",
+      "file_type": "image",
+      "size": 56765,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/4518-a2c0aa952f134d96.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/4518-a2c0aa952f134d96.js",
+      "file_type": "js",
+      "size": 14500,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/app/%255Fsites/%5Bsubdomain%5D/(multitenant)/layout-dbe83940f7e46a74.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/layout-dbe83940f7e46a74.js",
+      "file_type": "js",
+      "size": 550,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/app/error-484dcfaac8f2f843.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/error-484dcfaac8f2f843.js",
+      "file_type": "js",
+      "size": 821,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/7261-f7cddf0d79dec697.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/7261-f7cddf0d79dec697.js",
+      "file_type": "js",
+      "size": 8861,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/app/%255Fsites/%5Bsubdomain%5D/error-c1e02b0c64ace632.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/error-c1e02b0c64ace632.js",
+      "file_type": "js",
+      "size": 819,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/1251-8f0db0d9bb1ebdad.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/1251-8f0db0d9bb1ebdad.js",
+      "file_type": "js",
+      "size": 8499,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/4368-ba814e7a6fbcef8d.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/4368-ba814e7a6fbcef8d.js",
+      "file_type": "js",
+      "size": 210560,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/server/quickstart",
+      "filename": "docs_server_quickstart.html",
+      "file_type": "html",
+      "size": 482637,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/cd24890f-549fb4ba2f588ca6.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/cd24890f-549fb4ba2f588ca6.js",
+      "file_type": "js",
+      "size": 158715,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/cacheflow.732b6b69.svg",
+      "filename": "images/cacheflow.732b6b69.svg",
+      "file_type": "image",
+      "size": 3380,
+      "content_type": "image/svg+xml",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/css/f43d0118db6d5bd5.css?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "css/f43d0118db6d5bd5.css",
+      "file_type": "css",
+      "size": 151471,
+      "content_type": "text/css; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/app/%255Fsites/%5Bsubdomain%5D/not-found-b2b643e7a447ac69.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/not-found-b2b643e7a447ac69.js",
+      "file_type": "js",
+      "size": 6941,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/architecture",
+      "filename": "docs_architecture.html",
+      "file_type": "html",
+      "size": 149296,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/4065-d3c1d2f1fbe57123.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/4065-d3c1d2f1fbe57123.js",
+      "file_type": "js",
+      "size": 143755,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "filename": "docs__next_static_media_e4af272ccee01ff0-s.p.woff2",
+      "file_type": "other",
+      "size": 48432,
+      "content_type": "font/woff2",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_next/static/chunks/main-app-783164d0d214ce7a.js?dpl=dpl_818EGbfmx2FRrC2k3fTo43t6Nkz3",
+      "filename": "js/main-app-783164d0d214ce7a.js",
+      "file_type": "js",
+      "size": 1098,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_mintlify/favicons/quill/_generated/favicon/favicon.ico",
+      "filename": "images/favicon.ico",
+      "file_type": "image",
+      "size": 4945,
+      "content_type": "image/jpeg",
+      "depth": 2,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs/_mintlify/favicons/quill/_generated/favicon/favicon-16x16.png",
+      "filename": "images/favicon-16x16.png",
+      "file_type": "image",
+      "size": 731,
+      "content_type": "image/png",
+      "depth": 2,
+      "status": "success"
+    }
+  ]
+}

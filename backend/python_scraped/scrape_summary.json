@@ -1,0 +1,139 @@
+{
+  "start_time": "2025-09-14T18:57:51.242358",
+  "end_time": "2025-09-14T18:57:51.747060",
+  "duration_seconds": 0.504702,
+  "base_url": "https://quill.co/blog",
+  "total_files": 16,
+  "output_directory": "python_scraped",
+  "files": [
+    {
+      "url": "https://quill.co/favicon.ico",
+      "filename": "favicon.ico",
+      "size": 15406,
+      "content_type": "image/x-icon",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/docs",
+      "filename": "docs.html",
+      "size": 149296,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/quill.7847c2f3.svg",
+      "filename": "_next_static_media_quill.7847c2f3.svg",
+      "size": 2415,
+      "content_type": "image/svg+xml",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/css/925ba15c71db4fab.css",
+      "filename": "_next_static_css_925ba15c71db4fab.css",
+      "size": 44534,
+      "content_type": "text/css; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/main-app-693d2cd1d3938aa5.js",
+      "filename": "_next_static_chunks_main-app-693d2cd1d3938aa5.js",
+      "size": 471,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/fd9d1056-fb4a8cdfa2853b0e.js",
+      "filename": "_next_static_chunks_fd9d1056-fb4a8cdfa2853b0e.js",
+      "size": 172833,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/476-3eba64679ab77c2d.js",
+      "filename": "_next_static_chunks_476-3eba64679ab77c2d.js",
+      "size": 25044,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/decisiontree.2829aade.svg",
+      "filename": "_next_static_media_decisiontree.2829aade.svg",
+      "size": 5011,
+      "content_type": "image/svg+xml",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "filename": "_next_static_media_e4af272ccee01ff0-s.p.woff2",
+      "size": 48432,
+      "content_type": "font/woff2",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/webpack-b0dae6618e2370b3.js",
+      "filename": "_next_static_chunks_webpack-b0dae6618e2370b3.js",
+      "size": 4407,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/974-9fec86303b9f3ec6.js",
+      "filename": "_next_static_chunks_974-9fec86303b9f3ec6.js",
+      "size": 34369,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+      "filename": "_next_static_chunks_polyfills-78c92fac7aa8fdd8.js",
+      "size": 91381,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co",
+      "filename": "index.html",
+      "size": 130409,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/23-cd598ff85a59d106.js",
+      "filename": "_next_static_chunks_23-cd598ff85a59d106.js",
+      "size": 123727,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/_next/static/chunks/app/blog/page-2d9dd85ad2b1d3f4.js",
+      "filename": "_next_static_chunks_app_blog_page-2d9dd85ad2b1d3f4.js",
+      "size": 2777,
+      "content_type": "application/javascript; charset=utf-8",
+      "depth": 1,
+      "status": "success"
+    },
+    {
+      "url": "https://quill.co/blog",
+      "filename": "blog.html",
+      "size": 41160,
+      "content_type": "text/html; charset=utf-8",
+      "depth": 0,
+      "status": "success",
+      "links_found": 21
+    }
+  ]
+}

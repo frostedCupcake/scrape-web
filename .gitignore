@@ -39,3 +39,45 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# FastAPI
+.pytest_cache/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories
+backend/output/
+backend/data/
+/out/
+/build/
+
+# Backend Python files
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.env
+
+# API keys and sensitive data
+*.key
+config.json
+secrets.json
